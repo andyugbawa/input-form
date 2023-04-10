@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: grey;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.btn{
+  margin-top: 20px;
+  width: 140px;
+  background: blue;
+  color: white;
+  margin-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.con{
+    width:320px;
+    height: 350px;
+    background: white;
+    margin-left: 10px;  
+    margin-top : 50px;
+    float:left;
+}
+
+.form-input{
+    margin: 18px;
+    border: none;
+}
+
